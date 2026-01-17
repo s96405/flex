@@ -1,0 +1,1 @@
+使用flex排版再用padding跟maring調整
